@@ -1,0 +1,6 @@
+# k6 project ignores
+results/
+.env
+.vscode/
+node_modules/
+*.log

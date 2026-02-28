@@ -1,0 +1,1 @@
+Example scripts folder for k6. Edit `load_test.js` to change the test.
